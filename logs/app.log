@@ -1,0 +1,76 @@
+2025-04-30 17:50:38 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, sobrenome=Não informado, raca=caramelo, rua=3, cidade=Aracoiaba , numeroResidencia=4, idade=12, peso=55.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 17:54:09 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, raca=caramelo, rua=34, cidade=aracoiaba da serra, numeroResidencia=23, idade=13, peso=23.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 17:57:12 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo , raca=Grande, rua=2, cidade=aracoiaba, numeroResidencia=12, idade=3, peso=14.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 17:59:20 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=Lelo Bob, raca=Caramelo, rua=rua nossa, cidade=aracoiaba, numeroResidencia=23, idade=12, peso=12.0, tipoPet=Cachorro, sexo=Macho)'
+2025-04-30 18:01:38 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=Lelo bob, raca=caramelo, rua=34, cidade=ara, numeroResidencia=3, idade=2, peso=12.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:03:09 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, raca=caramelo, rua=2, cidade=ara, numeroResidencia=3, idade=5, peso=22.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:04:32 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bo, raca=caramelo, rua=21, cidade=23, numeroResidencia=2, idade=2, peso=33.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:09:26 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, raca=caramelo, rua=ff, cidade=ara, numeroResidencia=22, idade=12, peso=22.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:19:09 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, raca=caramelo, rua=2, cidade=ara, numeroResidencia=3, idade=5, peso=23.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:20:50 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, raca=caramelo, rua=adriana, cidade=aracoiaba, numeroResidencia=45, idade=12, peso=22.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:25:38 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, raca=caramelo, rua=34, cidade=ara, numeroResidencia=3, idade=3, peso=32.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:28:16 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=lelo bob, raca=caramelo, rua=34, cidade=aracoiaba, numeroResidencia=3, idade=2, peso=22.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 18:28:49 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=branquinha silva, raca=branca, rua=55, cidade=aracoiaba, numeroResidencia=2, idade=8, peso=8.0, tipoPet=gato, sexo=femea)'
+2025-04-30 18:28:53 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 18:29:08 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 18:29:24 INFO  PetRepository:252 - buscando pelo ciade: 'aracoiaba'
+2025-04-30 18:39:07 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 18:39:14 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 18:39:55 INFO  PetRepository:252 - buscando pelo ciade: 'aracoiaba'
+2025-04-30 18:40:24 INFO  PetRepository:144 - buscando pelo sexo: 'macho'
+2025-04-30 19:07:43 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=mel, sobrenome=lima, raca=caramelo, rua=adriana, cidade=aracoiaba, numeroResidencia=44, idade=3, peso=23.0, tipoPet=cachorro, sexo=femea)'
+2025-04-30 19:08:56 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=mel, sobrenome=lima, raca=caramelo, rua=adriana, cidade=aracoiaba, numeroResidencia=23, idade=2, peso=12.0, tipoPet=cachorro, sexo=femea)'
+2025-04-30 19:10:12 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=mel, sobrenome=lima, raca=caramelo, rua=ad, cidade=aracoiaba, numeroResidencia=2, idade=12, peso=22.0, tipoPet=cachorro, sexo=femea)'
+2025-04-30 19:12:29 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=mel, sobrenome=lima, raca=caramelo, rua=2, cidade=aracoiaba, numeroResidencia=3, idade=12, peso=22.0, tipoPet=cachorro, sexo=femea)'
+2025-04-30 19:13:55 INFO  PetRepository:20 - Salvando Pet 'Pet(idPet=0, nome=mel, sobrenome=lima, raca=caramelo, rua=2, cidade=aracoiaba, numeroResidencia=3, idade=12, peso=22.0, tipoPet=cachorro, sexo=femea)'
+2025-04-30 19:15:02 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 19:15:07 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 19:15:33 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 19:15:40 INFO  PetRepository:111 - Buscando por 'branquinha';
+2025-04-30 19:18:05 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 19:18:26 INFO  PetRepository:111 - Buscando por 'lelo bob';
+2025-04-30 19:21:19 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 19:21:25 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 19:21:41 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 19:21:49 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 19:24:10 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 19:24:16 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 19:57:27 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 19:59:38 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:01:44 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:06:24 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:07:42 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:08:04 INFO  PetRepository:20 - Salvando Pet 'Pet(id=null, nome=lelo, sobrenome=bob, raca=caramelo, rua=ar, cidade=aracoiaba, numeroResidencia=2, idade=5, peso=33.0, tipoPet=cachorro, sexo=macho)'
+2025-04-30 20:08:34 INFO  PetRepository:20 - Salvando Pet 'Pet(id=null, nome=mel, sobrenome=lima, raca=caramelo, rua=4, cidade=aracoiaba, numeroResidencia=3, idade=5, peso=32.0, tipoPet=cachorro, sexo=femea)'
+2025-04-30 20:08:37 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:23:25 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:24:05 INFO  PetRepository:20 - Salvando Pet 'Pet(id=0, nome=branquinha, sobrenome=linda, raca=caramelo, rua=2, cidade=aracoiaba, numeroResidencia=3, idade=5, peso=10.0, tipoPet=gato, sexo=femea)'
+2025-04-30 20:24:07 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:27:29 INFO  PetRepository:230 - buscando pela raca: 'caramelo'
+2025-04-30 20:27:34 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:27:49 INFO  PetRepository:230 - buscando pela raca: 'caramelo'
+2025-04-30 20:29:33 INFO  PetRepository:230 - buscando pela raca: 'caramelo'
+2025-04-30 20:32:05 INFO  PetRepository:230 - buscando pela raca: 'caramelo'
+2025-04-30 20:32:09 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:32:42 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:33:06 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:33:10 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:33:12 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:33:25 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 20:33:39 INFO  PetRepository:259 - buscando pelo ciade: 'aracoiaba'
+2025-04-30 20:33:50 INFO  PetRepository:202 - buscando pelo peso: '32.0'
+2025-04-30 20:34:49 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 20:35:00 INFO  PetRepository:145 - buscando pelo sexo: ''
+2025-04-30 20:35:26 INFO  PetRepository:145 - buscando pelo sexo: 'macho'
+2025-04-30 20:35:42 INFO  PetRepository:111 - Buscando por 'lelo';
+2025-04-30 20:36:57 INFO  PetRepository:111 - Buscando por '';
+2025-04-30 21:20:44 INFO  PetRepository:113 - Buscando por '';
+2025-04-30 21:20:49 INFO  PetRepository:113 - Buscando por '';
+2025-04-30 21:21:02 INFO  PetRepository:328 - Buscando por id '3'
+2025-04-30 21:21:28 INFO  PetRepository:54 - Atualizando Pet 'Pet(id=3, nome=nina, sobrenome=lindona, raca=null, rua=null, cidade=sorocaba, numeroResidencia=0, idade=16, peso=12.0, tipoPet=null, sexo=null)'
+2025-04-30 21:21:31 INFO  PetRepository:113 - Buscando por '';
+2025-04-30 21:21:48 INFO  PetRepository:113 - Buscando por '';
+2025-04-30 21:22:02 INFO  PetRepository:113 - Buscando por '';
+2025-04-30 21:27:23 INFO  PetRepository:113 - Buscando por '';
+2025-04-30 21:27:29 INFO  PetRepository:113 - Buscando por '';
+2025-04-30 21:27:39 INFO  PetRepository:113 - Buscando por '';
