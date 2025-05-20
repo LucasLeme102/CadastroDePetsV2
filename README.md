@@ -1,43 +1,36 @@
-# 🐾 Sistema de Cadastro de Pets com JDBC e PostgreSQL
+# 🐾 Cadastro de Pets V2
 
-Este projeto consiste em um sistema de cadastro de pets com interface de linha de comando (CLI), utilizando **Java com JDBC**, **PostgreSQL** como banco de dados, e aplicando boas práticas de desenvolvimento como **log com Log4j** e **uso do Lombok** para redução de código repetitivo.
+Um sistema simples em Java para gerenciar o cadastro básico de informações de pets, utilizando JDBC puro para interação com um banco de dados PostgreSQL. Este projeto foca na implementação do CRUD (Create, Read, Update, Delete) de forma "na mão", sem o uso de frameworks ORM.
 
----
+## 🚀 Funcionalidades
 
-## 📌 Objetivos
+* **Criação (Create):** Adiciona novas informações de pets ao banco de dados.
+* **Leitura (Read):** Exibe as informações dos pets cadastrados.
+* **Atualização (Update):** Modifica dados de pets existentes.
+* **Exclusão (Delete):** Remove registros de pets do banco de dados.
 
-- Aplicar os conceitos de **Orientação a Objetos (OO)** em Java
-- Implementar persistência com **JDBC**
-- Integrar com o **banco de dados PostgreSQL**
-- Utilizar **Log4j** para monitoramento
-- Reduzir boilerplate com **Lombok**
-- Praticar **boas práticas de organização de código**
+## 💻 Tecnologias Utilizadas
 
----
+* **Java:** Linguagem de programação principal.
+* **JDBC (Java Database Connectivity):** API para conexão e manipulação do banco de dados.
+* **PostgreSQL:** Sistema de gerenciamento de banco de dados relacional.
+* **Maven:** Ferramenta para gerenciamento de dependências e construção do projeto.
+* **Docker & Docker Compose:** Para orquestração e fácil configuração do ambiente do banco de dados.
 
-## 🧪 Funcionalidades da Aplicação
+## ⚙️ Pré-requisitos
 
-O sistema permite:
+Antes de começar, certifique-se de ter os seguintes softwares instalados em sua máquina:
 
-- ✅ Cadastrar um pet
-- 🔄 Atualizar dados de um pet
-- ❌ Remover um pet
-- 📋 Listar todos os pets
-- 🔍 Buscar pets por nome ou tipo
-- 🚪 Sair da aplicação
+* **Java Development Kit (JDK) 8 ou superior**
+* **Apache Maven 3.x**
+* **Docker Desktop** (inclui Docker Engine e Docker Compose)
 
----
+## 📦 Instalação e Execução
 
-## 🧰 Tecnologias Utilizadas
+Siga os passos abaixo para configurar e rodar o projeto localmente:
 
-- Java 17
-- JDBC
-- PostgreSQL
-- Maven
-- Lombok
-- Log4j
+### 1. Clonar o Repositório
 
----
-
-## 🗃️ Estrutura de Pastas
-
+```bash
+git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+cd SEU_REPOSITORIO
