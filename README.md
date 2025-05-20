@@ -32,5 +32,42 @@ Siga os passos abaixo para configurar e rodar o projeto localmente:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
+git clone do repositório
+
+2. Configurar o Banco de Dados com Docker Compose
+
+O projeto utiliza Docker Compose para levantar uma instância do PostgreSQL com as configurações necessárias.
+
+Variáveis de Ambiente do Banco de Dados:
+POSTGRES_USER: admin
+POSTGRES_PASSWORD: admin123
+POSTGRES_DB: cadastro_pets
+No diretório raiz do projeto, execute o seguinte comando para iniciar o contêiner do PostgreSQL:
+
+Bash
+docker-compose up -d
+Este comando criará e iniciará um contêiner PostgreSQL acessível na porta 5432.
+
+3. Configurar a Conexão JDBC no Projeto Java
+
+Certifique-se de que as configurações de conexão JDBC no seu código Java (provavelmente em uma classe de utilitário ou configuração de conexão) correspondem às variáveis de ambiente definidas no docker-compose.yml.
+
+Exemplo (adapte conforme a sua implementação):
+
+Java
+// Exemplo de URL de conexão JDBC
+String url = "jdbc:postgresql://localhost:5432/cadastro_pets";
+String user = "admin";
+String password = "admin123";
+// ... use essas credenciais para estabelecer a conexão
+4. Compilar e Executar a Aplicação Java
+
+
+🤝 Contribuições
+Contribuições são bem-vindas! Siga estes passos para contribuir:
+
+Faça um fork do projeto.
+Crie uma branch para sua feature (git checkout -b feature/MinhaNovaFeature).
+Faça o commit das suas alterações (git commit -m 'Adiciona MinhaNovaFeature').
+Envie para a branch original (git push origin feature/MinhaNovaFeature).
+Abra um Pull Request.
