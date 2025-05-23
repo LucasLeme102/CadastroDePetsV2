@@ -22,6 +22,7 @@ public class app {
 
         }
     }
+    //menus de buscas
     public static void Buscas(){
         System.out.println("Digite o número para respectiva ação");
         menuDeBusca();
